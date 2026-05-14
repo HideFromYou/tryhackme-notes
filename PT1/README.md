@@ -6,9 +6,12 @@ Topics include:
 
 - Web application security fundamentals
 - OWASP Top 10 concepts
+- SQL Injection fundamentals
+- Cross-Site Scripting (XSS)
+- Server-Side Request Forgery (SSRF)
+- Authentication / Authorization concepts
 - Enumeration methodology
 - Linux privilege escalation basics
-- Authentication / Authorization concepts
 - Burp Suite fundamentals
 - File inclusion basics
 - Web exploitation methodology
