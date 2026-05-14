@@ -11,8 +11,12 @@ Areas of focus:
 - Host and network assessment
 - Web application security fundamentals
 - Exploitation basics
-- Linux privilege escalation basics
 - Authentication / Authorization concepts
+- Password attacks
+- Linux fundamentals
+- Windows fundamentals
+- Basic privilege escalation concepts
+- Pivoting and internal network movement basics
 - Pentesting methodology
 
 Tools commonly used:
@@ -24,3 +28,4 @@ Tools commonly used:
 - Metasploit Framework
 - Netcat
 - Linux command line
+- Windows command line basics
