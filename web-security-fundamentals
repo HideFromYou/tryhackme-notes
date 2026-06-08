@@ -1,0 +1,129 @@
+# 🌐 Web Application Security Fundamentals (TryHackMe)
+
+This repository contains structured notes from TryHackMe focusing on foundational web application security concepts, reconnaissance techniques, and server-side understanding.
+
+The goal is to build a strong base before moving into exploitation and advanced penetration testing.
+
+---
+
+## 🎯 Learning Scope
+
+This repository covers:
+
+- Walking an Application
+- Content Discovery
+- Modern Web Stacks
+- Web Server Attacks I
+- Web Server Attacks II
+
+---
+
+## 🔍 Walking an Application
+
+Understanding how to manually explore a web application:
+
+- Identifying user inputs (forms, parameters, endpoints)
+- Mapping application flow and navigation
+- Observing requests and responses
+- Building an attack surface model
+
+🧠 Key Idea: You cannot secure what you do not understand.
+
+---
+
+## 🧭 Content Discovery
+
+Techniques used to uncover hidden application resources:
+
+- Hidden directories and endpoints
+- Backup files and forgotten assets
+- Enumeration of web paths
+- Identifying developer mistakes in exposed content
+
+🧠 Key Idea: Most real-world vulnerabilities are discovered, not obvious.
+
+---
+
+## 🏗️ Modern Web Stacks
+
+Understanding how modern applications are built:
+
+- Frontend frameworks (React, Angular, Vue)
+- Backend systems (Node.js, PHP, Python, .NET)
+- API-driven architectures
+- Separation of frontend and backend logic
+
+🧠 Key Idea: Complexity increases attack surface.
+
+---
+
+## 🖥️ Web Server Attacks I
+
+Introduction to server-side weaknesses:
+
+- Misconfigured web servers (Apache, Nginx, IIS)
+- Directory listing exposure
+- Improper file permissions
+- Basic enumeration of server behavior
+
+🧠 Key Idea: Misconfiguration is often more dangerous than code bugs.
+
+---
+
+## 🖥️ Web Server Attacks II
+
+Advanced server-side security concepts:
+
+- File upload misconfigurations
+- Sensitive file exposure
+- Improper access control at server level
+- Deployment weaknesses
+- Server-to-system risk escalation
+
+🧠 Key Idea: Server configuration = security boundary.
+
+---
+
+## 🧠 Key Security Principles Learned
+
+- Enumeration comes before exploitation
+- Understanding architecture is critical
+- Attack surface mapping is essential
+- Small misconfigurations can lead to full compromise
+- Web security is layered (frontend + backend + server)
+
+---
+
+## 🔎 Methodology Used
+
+1. Identify application structure
+2. Map visible and hidden endpoints
+3. Analyze backend technology stack
+4. Discover hidden content and directories
+5. Observe server behavior and responses
+6. Identify potential weak points
+7. Document attack surface
+
+---
+
+## 🎯 Skills Developed
+
+- Web reconnaissance fundamentals
+- Content discovery techniques
+- Web architecture understanding
+- Server-side security awareness
+- Offensive security mindset development
+
+---
+
+## ⚠️ Disclaimer
+
+All content is based on legal training environments (TryHackMe).
+
+No real-world exploitation or malicious activity is included.
+
+---
+
+## 🚀 Goal
+
+To build a strong foundation in web application security before moving into vulnerability exploitation and penetration testing.
