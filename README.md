@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TryHackMe Notes
 
 A structured collection of my notes, walkthroughs, and hands-on practice while studying cybersecurity through **TryHackMe**.
