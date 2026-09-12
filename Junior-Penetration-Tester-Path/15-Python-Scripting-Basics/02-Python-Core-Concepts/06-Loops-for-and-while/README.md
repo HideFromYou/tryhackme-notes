@@ -360,4 +360,4 @@ for
 Condition determines repetition
     ↓
 while
-~~~
+~~~.
