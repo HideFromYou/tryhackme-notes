@@ -1,4 +1,4 @@
-# Junior Penetration Tester — TryHackMe Notes
+# Penetration Tester — TryHackMe Notes
 
 > 🛡️ **Hands-on Cybersecurity & Penetration Testing Learning Repository**
 
